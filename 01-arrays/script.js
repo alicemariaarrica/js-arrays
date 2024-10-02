@@ -23,6 +23,7 @@ const lastTeacher = teachers[6];
 const firstTeacher = teachers.shift[0];
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
+teachers[7] = 'Vanessa';
 
 // 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
 
